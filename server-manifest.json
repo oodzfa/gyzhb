@@ -86,6 +86,10 @@
       "hash": "23eef3fc6df966aa333425e0a465d04315e40f88"
     },
     {
+      "path": "mods/[forge-1.16.5]AllMusic_Client-3.0.0.jar",
+      "hash": "2e65e758ad306ab2ee6080807135378189ad65b0"
+    },
+    {
       "path": "servers.dat",
       "hash": "25689646c1417a4667849025072f717f4ef7712d"
     }
